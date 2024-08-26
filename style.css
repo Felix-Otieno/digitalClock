@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to left, pink, rgb(0, 128, 0, 0.3));
+    text-align: center;
+
+}
+
+#head {
+   font-size: 50px;
+   border: 3px solid grey;
+   font-weight: bold;
+   margin: auto;
+   border-radius: 50px;
+   width: 30%;
+   background-color: rgb(0, 0, 255, 0.2);
+   /* color: rgb(165, 42, 42, 0.4); */
+   background: linear-gradient(to left, rgb(238, 238, 238), maroon);
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+#clock {
+    text-align: center;
+    margin: 150px;
+    font-size: 200px;
+    border-radius: 30px;
+    border: 5px solid purple;
+    
+   
+
+}
